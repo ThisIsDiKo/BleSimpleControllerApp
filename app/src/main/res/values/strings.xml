@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BleSimpleControllerApp</string>
+    <string name="csc_notification_connected_message">%s is connected.</string>
+
+    <string name="application_settings">Настройки приложения</string>
+    <string name="controller_settings">Настрйоки контроллера</string>
+
+    <string name="bar_units">бар</string>
+    <string name="psi_units">psi</string>
+    <string name="mv_units">мВ</string>
+
+    <string name="one_way_control">Одноконтурное</string>
+    <string name="two_way_control">Двухконтурное</string>
+    <string name="three_way_control">Трехконтурное</string>
+    <string name="four_way_control">Четырехконтурное</string>
+
+    <string name="simple_controller">Простой</string>
+    <string name="extended_controller">Расширенный</string>
+
+    <string name="unknown_device">Неизвестное устройство</string>
+    <string name="is_connecting">Connecting</string>
+
+
+</resources>
